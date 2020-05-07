@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AACI,IADA,CACA,WAAW,CAAC;EACR,MAAM,EAAE,KAAK;EACb,SAAS,EAAE,IAAI;EACf,UAAU,EAAE,4BAA4B,CAAC,SAAS,CAAC,MAAM,CAAC,MAAM;EAChE,qBAAqB,EAAE,KAAK;EAC5B,eAAe,EAAE,KAAK;EACtB,mBAAmB,EAAE,MAAM;EAC3B,MAAM,EAAE,CAAC;EACT,OAAO,EAAE,CAAC;EACV,QAAQ,EAAE,QAAQ;CAAG;;AAC7B,UAAU;EACN,WAAW,EAAE,IAAI;EACjB,GAAG,EAAE,gCAAgC",
+    "sources": [
+        "../sass/fastdownload.sass"
+    ],
+    "names": [],
+    "file": "fastdownload.css"
+}
